@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+}
+
+section {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+article {
+  margin: 4px;
+  background-color: lightgreen;
+  padding: 8px;
+}
+
+footer {
+  background-color: lightgreen;
+  padding: 8px;
+}
+
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
